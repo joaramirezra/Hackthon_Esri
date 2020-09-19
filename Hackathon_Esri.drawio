@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2020-09-19T01:16:20.622Z" agent="5.0 (X11)" version="13.7.3" etag="ZQB9MrG368SdjpUv_De-" type="github"><diagram id="5xeGwrhrMM5CPOt0PtyU">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-19T02:04:12.285Z" agent="5.0 (X11)" etag="vo9bIiNKLz4LIXlCsKJc" version="13.7.3" type="github">
+  <diagram id="5xeGwrhrMM5CPOt0PtyU" name="Page-1">
+    <mxGraphModel dx="862" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3pFoArTBqblzvACSm-W4-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;" vertex="1" parent="1">
+          <mxGeometry x="130" y="160" width="230" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="3pFoArTBqblzvACSm-W4-6" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="180" y="190" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3pFoArTBqblzvACSm-W4-7" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="140" y="270" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3pFoArTBqblzvACSm-W4-8" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="190" y="290" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3pFoArTBqblzvACSm-W4-9" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="230" y="170" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3pFoArTBqblzvACSm-W4-10" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="240" y="300" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3pFoArTBqblzvACSm-W4-11" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="280" y="290" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3pFoArTBqblzvACSm-W4-12" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="270" y="180" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3pFoArTBqblzvACSm-W4-13" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="310" y="200" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3pFoArTBqblzvACSm-W4-20" value="&lt;b&gt;Problem&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;-keep social distances,although the place have enough space and capacity&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Show accurate Heat maps , with relevant information&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- to motivate customers to be part of the solution&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Bussiness model&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Set automatic triggers, but with friendly with people, how ? &lt;br&gt;&lt;br&gt;- save information of space occupy and distribution &lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="150" width="310" height="250" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

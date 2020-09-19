@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2020-09-19T02:04:12.285Z" agent="5.0 (X11)" etag="vo9bIiNKLz4LIXlCsKJc" version="13.7.3" type="github">
-  <diagram id="5xeGwrhrMM5CPOt0PtyU" name="Page-1">
+<mxfile host="app.diagrams.net" modified="2020-09-19T04:01:29.987Z" agent="5.0 (X11)" etag="5DpYEGaPJsahTVCJqQVi" version="13.7.3" type="github" pages="4">
+  <diagram id="5xeGwrhrMM5CPOt0PtyU" name="Problem">
     <mxGraphModel dx="862" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -34,6 +34,108 @@
         <mxCell id="3pFoArTBqblzvACSm-W4-20" value="&lt;b&gt;Problem&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;-keep social distances,although the place have enough space and capacity&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Show accurate Heat maps , with relevant information&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- to motivate customers to be part of the solution&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Bussiness model&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Set automatic triggers, but with friendly with people, how ? &lt;br&gt;&lt;br&gt;- save information of space occupy and distribution &lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="150" width="310" height="250" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="1gZrl54HCUIYxjvx7Zzf" name="Aproach">
+    <mxGraphModel dx="862" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="hONVt-ICAWH8mF1EHDBM-0" />
+        <mxCell id="hONVt-ICAWH8mF1EHDBM-1" parent="hONVt-ICAWH8mF1EHDBM-0" />
+        <mxCell id="hONVt-ICAWH8mF1EHDBM-2" value="general Space " style="whiteSpace=wrap;html=1;aspect=fixed;align=center;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;" vertex="1" parent="hONVt-ICAWH8mF1EHDBM-1">
+          <mxGeometry x="40" y="50" width="290" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="hONVt-ICAWH8mF1EHDBM-3" value="&lt;b&gt;approach:&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;- People have to pass trough a door to enter to a place.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- A general space have one or more doors &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Usually people take with them cellphone and electronics devices.&lt;br&gt;&lt;br&gt;- The general space have many sub places (like classrooms, shopping sites, supermarket sections, etc)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;- Sometimes people connect to the site network like in university or airports.&lt;br&gt;&lt;br&gt;Some brands and places have their own apps, web pages , or captive portals" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hONVt-ICAWH8mF1EHDBM-1">
+          <mxGeometry x="360" y="50" width="320" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="hONVt-ICAWH8mF1EHDBM-4" value="&lt;div&gt;sub-place1&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="hONVt-ICAWH8mF1EHDBM-1">
+          <mxGeometry x="60" y="130" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hONVt-ICAWH8mF1EHDBM-16" value="sub-place &lt;br&gt;n" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="hONVt-ICAWH8mF1EHDBM-1">
+          <mxGeometry x="240" y="230" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hONVt-ICAWH8mF1EHDBM-17" value="sub-place 4" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="hONVt-ICAWH8mF1EHDBM-1">
+          <mxGeometry x="60" y="220" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hONVt-ICAWH8mF1EHDBM-18" value="sub-place2" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="hONVt-ICAWH8mF1EHDBM-1">
+          <mxGeometry x="240" y="120" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hONVt-ICAWH8mF1EHDBM-19" value="sub-place0" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="hONVt-ICAWH8mF1EHDBM-1">
+          <mxGeometry x="150" y="80" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hONVt-ICAWH8mF1EHDBM-20" value="sub-place3" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="hONVt-ICAWH8mF1EHDBM-1">
+          <mxGeometry x="150" y="160" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hONVt-ICAWH8mF1EHDBM-21" value="sub-place&lt;br&gt;n-1" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="hONVt-ICAWH8mF1EHDBM-1">
+          <mxGeometry x="140" y="260" width="70" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="rqZU4RZizudq0b-FtoFj" name="relationships">
+    <mxGraphModel dx="862" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="xJnMngqgmtK-EI28AATq-0" />
+        <mxCell id="xJnMngqgmtK-EI28AATq-1" parent="xJnMngqgmtK-EI28AATq-0" />
+        <mxCell id="irSQ5WJbZUhzGJbg-Wnj-9" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="xJnMngqgmtK-EI28AATq-1">
+          <mxGeometry x="70" y="130" width="50" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="xJnMngqgmtK-EI28AATq-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;" vertex="1" parent="xJnMngqgmtK-EI28AATq-1">
+          <mxGeometry x="120" y="130" width="260" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="xJnMngqgmtK-EI28AATq-3" value="schools,colleges" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;align=center;" vertex="1" parent="xJnMngqgmtK-EI28AATq-1">
+          <mxGeometry x="300" y="190" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xJnMngqgmtK-EI28AATq-8" value="&lt;b&gt;Key factors &lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;div align=&quot;center&quot;&gt;- Stay time &lt;br&gt;&lt;br&gt;- Comfort&lt;br&gt;&lt;br&gt;- Security sensation &lt;br&gt;&lt;br&gt;- Number of voluntary interactions (friends, family , etc)&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;- Number of non-voluntary interactions (waitress, security personal , sales person)&lt;br&gt;&lt;br&gt;- CRM &lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xJnMngqgmtK-EI28AATq-1">
+          <mxGeometry x="410" y="130" width="290" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="irSQ5WJbZUhzGJbg-Wnj-1" value="" style="endArrow=none;html=1;exitX=0.02;exitY=0.158;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="xJnMngqgmtK-EI28AATq-1" source="irSQ5WJbZUhzGJbg-Wnj-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="170" as="sourcePoint" />
+            <mxPoint x="380" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irSQ5WJbZUhzGJbg-Wnj-2" value="" style="endArrow=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="xJnMngqgmtK-EI28AATq-1" source="xJnMngqgmtK-EI28AATq-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="180" as="sourcePoint" />
+            <mxPoint x="250" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irSQ5WJbZUhzGJbg-Wnj-3" value="want to be here" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xJnMngqgmtK-EI28AATq-1">
+          <mxGeometry x="150" y="140" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="irSQ5WJbZUhzGJbg-Wnj-4" value="have to be here" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xJnMngqgmtK-EI28AATq-1">
+          <mxGeometry x="280" y="140" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="irSQ5WJbZUhzGJbg-Wnj-5" value="Airports" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;align=center;" vertex="1" parent="xJnMngqgmtK-EI28AATq-1">
+          <mxGeometry x="300" y="300" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="irSQ5WJbZUhzGJbg-Wnj-6" value="Restaurants &lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;align=center;" vertex="1" parent="xJnMngqgmtK-EI28AATq-1">
+          <mxGeometry x="170" y="190" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="irSQ5WJbZUhzGJbg-Wnj-7" value="Mall stores" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;align=center;" vertex="1" parent="xJnMngqgmtK-EI28AATq-1">
+          <mxGeometry x="170" y="300" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="irSQ5WJbZUhzGJbg-Wnj-8" value="" style="endArrow=none;html=1;exitX=0.04;exitY=0.615;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.612;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="xJnMngqgmtK-EI28AATq-1" source="irSQ5WJbZUhzGJbg-Wnj-9" target="xJnMngqgmtK-EI28AATq-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="280" as="sourcePoint" />
+            <mxPoint x="450" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irSQ5WJbZUhzGJbg-Wnj-10" value="&lt;div&gt;Long time&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="xJnMngqgmtK-EI28AATq-1">
+          <mxGeometry x="60" y="220" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="irSQ5WJbZUhzGJbg-Wnj-11" value="Short Time" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="xJnMngqgmtK-EI28AATq-1">
+          <mxGeometry x="60" y="330" width="70" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="mmhDsA0l5wAKKHcFs5kP" name="Solution 1">
+    <mxGraphModel dx="862" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="fjoEaKSg_0OnC1A9pSA8-0" />
+        <mxCell id="fjoEaKSg_0OnC1A9pSA8-1" parent="fjoEaKSg_0OnC1A9pSA8-0" />
       </root>
     </mxGraphModel>
   </diagram>

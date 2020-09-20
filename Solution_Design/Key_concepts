@@ -1,0 +1,13 @@
+# key concepts :
+
+- Monitorear y controlar el acceso a grandes superficies (supermercados, almacenes de cadena,universidades, aeropuertos, etc.).
+- Mantener un registro en tiempo real de la cantidad de personas que ingresen a alguno de los espacios mencionados anteriormente.
+- Tener un control de ocupación y facilite la toma de decisiones en cuanto a restricción de acceso, de ser necesario
+- El resultado de este control (nivel de ocupación) se debe mostrar en un mapa de ArcGIS (Se sugiere aplicación web o de escritorio)
+
+# Requitements
+
+- Los participantes del reto avanzado deben hacer uso de las API o SDK para desarrolladres de ArcGIS
+- 2 videos:
+  - 5 minutos explicando toda la solución.
+  - 1 minuto para proyectarlo en el cierre de la Conferencia de Usuarios Esri (cue) en caso de que resulte ganador.

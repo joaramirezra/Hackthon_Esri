@@ -56,8 +56,10 @@ def ejecutar(tiempo_segundos):
 								numero,cordenadas[salon][0],cordenadas[salon][1])
 			break
 		else :
+			imprimir_macs(3)
 			pass
 
 while True :
-	ejecutar(120)
-	print(layer.query().sdf)
+	ejecutar(30)
+	#print(layer.query().sdf)
+	time.sleep(30)

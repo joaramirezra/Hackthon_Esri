@@ -1,11 +1,18 @@
 import serial
 import time
-import csv
+
 
 ser = serial.Serial('/dev/ttyUSB1',115220)
 
-while True:
-	try:
-		print(ser.readline())
-	except:
-		pass
+def  leer_macs_tiempo(tiempo_segundos):
+	timeout = time.time() +  tiempo_segundos
+	mac_list = {}
+	while True:
+		if(time.time() > timeout):
+			break
+		else :
+			input_mac = ser.readline()
+			mac_list[input_mac] = input_mac 
+	
+	return mac_list	
+
